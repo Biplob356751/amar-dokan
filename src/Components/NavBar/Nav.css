@@ -1,0 +1,67 @@
+.nav_bar{
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 1px 1px 3px #ddd;
+    background-color: #fff;
+    z-index: 99999;
+}
+.nav_bar .nav{
+    display: grid;
+    grid-template-columns: 15% 64% 14% 5%;
+    grid-gap: 2%;
+}
+.logo a{
+    text-decoration: none;
+    font-weight: 600;
+}
+.logo a span i{
+    color: #06b8ff;
+    font-size: 30px;
+    margin-right: 5px;
+}
+.logo a span{
+    color: #555;
+}
+.main_menu ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    line-height: 40px;
+}
+.main_menu ul li{
+    margin-right: 35px;
+}
+.main_menu ul li a{
+    text-decoration: none;
+    color: #555;
+    font-weight: 500;
+    font-size: 15px;
+}
+.main_menu ul li:hover a{
+    color: #06b8ff;
+}
+.resister_account{
+    line-height: 35px;
+}
+.resister_account a{
+    font-size: 12px;
+    color: #fff;
+    border-radius: 4px;
+    background-color: #06b8ff;
+    margin-right: 20px;
+    padding: 5px 15px;
+    text-decoration: none;
+    font-weight: 500;
+}
+.app_bar{
+    line-height: 35px;
+}
+.app_bar i{
+    border: 1px solid #06b8ff;
+    padding: 5px 10px;
+    cursor: pointer;
+    display: none;
+}

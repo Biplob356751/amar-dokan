@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Super Shop",
+        "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
+        "id": 1,
+        "schedule": "08 AM to 10PM" 
+    },
+    {
+        "title": "Cosmetices Shop",
+        "image": "https://i.pinimg.com/564x/44/3a/aa/443aaaffb306227e3e8dacf3a6ddc025.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 2
+
+    },
+    {
+        "title": "Daily Nedd Shop",
+        "image": "https://i.pinimg.com/564x/fd/71/03/fd7103267bfad41e55de9c48bf3ca443.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 3
+    },
+    {
+        "title": "Cloth Shop",
+        "image": "https://i.pinimg.com/564x/bf/bb/5c/bfbb5c7943e51cdfe510aff7c3284534.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 4
+    },
+    {
+        "title": "Ornaments Shop",
+        "image": "https://i.pinimg.com/564x/69/f4/72/69f47281b8a036cf65fd99c61cdf81d3.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 5
+    },
+    {
+        "title": "Electronices Shop",
+        "image": "https://i.pinimg.com/564x/18/66/06/186606708cb74518dfa5bbcfd768a4de.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 6
+    },
+    {
+        "title": "Book Shop",
+        "image": "https://i.pinimg.com/564x/55/ce/7d/55ce7df91991c2d2d9442bacc814f938.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 7
+    },
+    {
+        "title": "Vagetable Shop",
+        "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 8
+    },
+    {
+        "title": "Whole Sale Shop",
+        "image": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 9
+    },
+    {
+        "title": "Mobile Shop",
+        "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 10
+    },
+    {
+        "title": "Laptop Exiseris Shop",
+        "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 11
+    },
+    {
+        "title": "Medicine Shop",
+        "image": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+        "schedule": "08 AM to 10PM",
+        "id": 12
+    }
+]
+

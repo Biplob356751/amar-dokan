@@ -1,0 +1,23 @@
+.counter_container{
+    background-color: #06b8ff;
+    margin-bottom: 100px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 2%;
+}
+.counter_user{
+    border-right: 1px solid #fff;
+    padding: 40px;
+}
+.counter_user span{
+    display: block;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+}
+.counter_user p{
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+    font-weight: 800;
+}

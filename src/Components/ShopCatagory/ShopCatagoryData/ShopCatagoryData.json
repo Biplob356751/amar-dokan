@@ -3,74 +3,2015 @@
         "title": "Super Shop",
         "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
         "id": 1,
-        "schedule": "08 AM to 10PM" 
+        "schedule": "08 AM to 10PM",
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "a1",
+            "product": [
+                {
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "productName": "Laptop",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B1H1C1"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B2H2C2"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B3H3C3"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B4H4C4"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B5H5C5"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B6H6C6"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B7H7C7"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B8H8C8"
+                },
+                {
+                    "productName": "Laptop",
+                    "price": 200,
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B9H1C1"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B101H1C1"
+                }
+
+              ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "a2",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B131H1C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B245H2C2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3H563C3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H784C4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H265C5"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6097C6"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H2347C7"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B834H8C8"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9677H1C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B10165757H1C1"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "a3",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1bgnH1C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B2Hvfg2C2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3Htrte3C3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4Hrrt4C4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5rwrtH5C5"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6Hert6C6"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7r45yC7"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H8Cr42348"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H1tu7uC1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101676uhH1C1"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "a4",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1Hkib1C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B2H2112C2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3H34353C3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H4546567C4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5yghy4C5"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H3454tt56C6"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7Ctft34r7"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H8C84re34r"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H1Crwed41"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101H1Cr443tf1"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "a5",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1H1C1453d"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B2H2C2rtgtt4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3H3C3wede231"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H4C4e34rer"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5C5ffer3e"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6C6er23d"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7C7dr34r"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H8C8ghuu"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H1C1g7y76y"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101H1C1tyu66ytf"
+                    }
+    
+                  ]
+            }
+
+        ] 
     },
     {
         "title": "Cosmetices Shop",
         "image": "https://i.pinimg.com/564x/44/3a/aa/443aaaffb306227e3e8dacf3a6ddc025.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 2
+        "id": 2,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "b1",
+            "product": [
+                {
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "productName": "Laptop",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B111111222"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B2H222222222C2"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B3H322111C3"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B4H43243derervC4"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B5H5erfer4rC5"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B6Herverferf6C6"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B7H7Cerferfeffdfvdf7"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B8H8C8vfewed"
+                },
+                {
+                    "productName": "Laptop",
+                    "price": 200,
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B9Hcfwewecerf3wed1C1"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B101H1ferr3wdweC1"
+                }
+
+              ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "b2",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1H1C1nnnnn"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B2H2C2mmmmm"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3H3C3ssss"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H4C4ssdddd"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5C5gggggg"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6C6eeeeeeeeeeee"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7C73er3rc"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H8C8ty76yyr"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H1C1dwe23eferft"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "tyhyytyy6gtrg"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "b3",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1H1C1ngrr5t"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B2H2C2zty5ter4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3H3C3gtrgty56"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H4C4fdr4ewdrfe"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5C5gtrtre23"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6C6gtgtjuikok"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7Cwedwe7"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H8C8ewdsxewrr"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H1C1e2323ttfrwe"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101H1C1e3e2335r4"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "b4",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1H1fewevf3e23C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B2H2Ce23erd34rr2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3H3re23eer3rC3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H4frffrffC4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5feewrferC5"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6Cve33ffe6"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7e23e3dccfggfC7"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H8C8dweee3245t45f"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H1C1addr4rg"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101H1Ce31"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "b5",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1H1Cfe3e23ewede1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B442H2C2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3222H3C3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H4222C4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5C2225"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6C45666"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7C7678e3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H84243556gt34C8"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H1ft45343f45C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101H15343r3ttrhhtrtC1"
+                    }
+    
+                  ]
+            }
+
+        ] 
 
     },
     {
         "title": "Daily Nedd Shop",
         "image": "https://i.pinimg.com/564x/fd/71/03/fd7103267bfad41e55de9c48bf3ca443.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 3
+        "id": 3,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "c1",
+            "product": [
+                {
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "productName": "Laptop",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B1H1Cnvrew1"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B2H2Cedfgt2"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B3H34ftrg3C3"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B4H453tgtr4C4"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B5rt45gtrH5C5"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B6H6yy435ttgC6"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B7H7rg445tC7"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B8H8Ct4533g8"
+                },
+                {
+                    "productName": "Laptop",
+                    "price": 200,
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B9H134445grv45t4tC1"
+                },
+                {
+                    "productName": "Laptop",
+                    "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                    "price": 200,
+                    "quantity": 1,
+                    "rating": 4.5,
+                    "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                    "discount": 5,
+                    "id": "B101223rrft56yererr3H1C1"
+                }
+
+              ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "c2",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1H1C1vvvv"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B2H2C2hhhh"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3H3C3tsw"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H4Cwe4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5C5q2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6C64342w"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7C7q3w"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H8C8e213"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H13r45fC1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101H1C1r231d"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "c3",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1H1Cer461"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "333fB2H2C2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3354556H3C3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4H45t56gtrC4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5432tffC5"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6r22fC6"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7H7r23r3rC7"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H33r8C8"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9H1rrrgtgC1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101Hgr31C1"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "c4",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B1H1wecfdvC1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B2erwcvvzsgfe3eH2C2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B3He23erfr3C3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B4321fgyhrdH4C4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B5H5ewwe2ffwfeC5"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B6H6Cefwe23eferr6"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B7eqffr3eH7C7"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B8H8e23e23cr342C8"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B9e32ew4tfewrH1C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "B101H12333wqe4erwC1"
+                    }
+    
+                  ]
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "c5",
+                "product": [
+                    {
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "productName": "Laptop",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "sqwwrerB1H1C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "wdwwd34rvrfB2H2C2"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "dweewferferd33B3H3C3"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "45r34r45rB4H4C4"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "4e254tfrer34B5H5C5"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "34r345ffreB6H6C6"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "2e23t23eB7H7C7"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "e345t45wdB8H8C8"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "price": 200,
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "e35t4rghB9H1C1"
+                    },
+                    {
+                        "productName": "Laptop",
+                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "price": 200,
+                        "quantity": 1,
+                        "rating": 4.5,
+                        "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
+                        "discount": 5,
+                        "id": "gyjiuy56B101H1C1"
+                    }
+    
+                  ]
+            }
+
+        ] 
     },
     {
         "title": "Cloth Shop",
         "image": "https://i.pinimg.com/564x/bf/bb/5c/bfbb5c7943e51cdfe510aff7c3284534.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 4
+        "id": 4,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "d1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "d2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "d3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "d4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "d5"
+            }
+
+        ] 
     },
     {
         "title": "Ornaments Shop",
         "image": "https://i.pinimg.com/564x/69/f4/72/69f47281b8a036cf65fd99c61cdf81d3.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 5
+        "id": 5,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "e1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "e2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "e3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "e4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "e5"
+            }
+
+        ] 
     },
     {
         "title": "Electronices Shop",
         "image": "https://i.pinimg.com/564x/18/66/06/186606708cb74518dfa5bbcfd768a4de.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 6
+        "id": 6,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "f1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "f2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "f3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "f4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "f5"
+            }
+
+        ] 
     },
     {
         "title": "Book Shop",
         "image": "https://i.pinimg.com/564x/55/ce/7d/55ce7df91991c2d2d9442bacc814f938.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 7
+        "id": 7,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "g1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "g2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "g3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "g4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "g5"
+            }
+
+        ] 
     },
     {
         "title": "Vagetable Shop",
         "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 8
+        "id": 8,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "h1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "h2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "h3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "h4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "h5"
+            }
+
+        ] 
     },
     {
         "title": "Whole Sale Shop",
         "image": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 9
+        "id": 9,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "i1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "i2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "i3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "i4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "i5"
+            }
+
+        ] 
     },
     {
         "title": "Mobile Shop",
         "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 10
+        "id": 10,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "j1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "j2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "j3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "j4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "j5"
+            }
+
+        ] 
     },
     {
         "title": "Laptop Exiseris Shop",
         "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 11
+        "id": 11,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "k1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "k2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "k3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "k4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "k5"
+            }
+
+        ] 
     },
     {
         "title": "Medicine Shop",
         "image": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
         "schedule": "08 AM to 10PM",
-        "id": 12
+        "id": 12,
+        "catagory": [
+            {
+            "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+            "name": "BIPLOB STORE",
+            "schedule": "08 AM to 10PM",
+            "key": "l1"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "l2"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "l3"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "l4"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
+                "name": "BIPLOB STORE",
+                "schedule": "08 AM to 10PM",
+                "key": "l5"
+            }
+
+        ] 
     }
 ]
 

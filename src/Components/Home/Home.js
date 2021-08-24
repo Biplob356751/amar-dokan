@@ -6,6 +6,8 @@ import Market from '../Market/Market';
 import Review from '../Review/Review'
 import Club from '../Club/Club';
 import Counter from '../Counter/Counter';
+import SimpleBlog from '../SimpleBlog/SimpleBlog';
+import ContactInfo from '../ContactInfo/ContactInfo';
 
 const Home = () => {
     return (
@@ -27,6 +29,12 @@ const Home = () => {
             </div>
             <div className="club_page">
                 <Club></Club>
+            </div>
+            <div className="simple_blog_page container">
+                <SimpleBlog></SimpleBlog>
+            </div>
+            <div className="contact_info">
+                <ContactInfo></ContactInfo>
             </div>
         </div>
     );

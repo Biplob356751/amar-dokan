@@ -19,8 +19,3 @@ function App() {
 
 export default App;
 //#06b8ff
-// "catagory": [{
-//     "img": "https://i.pinimg.com/564x/21/9b/84/219b84e1d61bd42a01f193eb19545c0b.jpg",
-//     "name": "BIPLOB STORE",
-//     "schedule": "08 AM to 10PM"
-// }] 

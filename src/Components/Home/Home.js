@@ -8,6 +8,7 @@ import Club from '../Club/Club';
 import Counter from '../Counter/Counter';
 import SimpleBlog from '../SimpleBlog/SimpleBlog';
 import ContactInfo from '../ContactInfo/ContactInfo';
+import Sponsor from '../Sponsor/Sponsor';
 
 const Home = () => {
     return (
@@ -35,6 +36,9 @@ const Home = () => {
             </div>
             <div className="contact_info">
                 <ContactInfo></ContactInfo>
+            </div>
+            <div className="sponsor_page container">
+                <Sponsor></Sponsor>
             </div>
         </div>
     );

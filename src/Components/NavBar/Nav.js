@@ -7,7 +7,7 @@ const Nav = () => {
             <div className="nav_bar ">
                 <div className="nav container">
                     <div className="logo">
-                        <Link to="/"><span><i className="fas fa-shopping-bag"></i>Amar Dokan</span></Link>
+                        <Link to="/"><span><i className="fas fa-shopping-cart"></i>Amar Dokan</span></Link>
                     </div>
                     <div className="main_menu">
                         <ul>

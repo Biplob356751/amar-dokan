@@ -16,7 +16,7 @@ const ShopCatagory = () => {
                 {
                     shopCatagory.map(catagoryShop =>
                     <div className="shopCatagory_content" key={catagoryShop.id}>
-                        <Link to='/Shop'>
+                        <Link to={`/shop/${catagoryShop.id}`}>
                             <img src={catagoryShop.image} alt="image" />
                             <h4>{catagoryShop.title}</h4>
                             <h5>Open: {catagoryShop.schedule}</h5>

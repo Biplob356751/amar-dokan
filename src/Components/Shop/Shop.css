@@ -1,0 +1,29 @@
+.shop_container{
+    padding: 100px 0px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 2%;
+}
+.shop_container a{
+    text-decoration: none;
+    color: #444;
+}
+.shop_content_img{
+    padding: 20px;
+    border: 1px solid #06b8ff;
+}
+.shop_content_img img{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+.shop_content_img .shop_content h4{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 800;
+}
+.shop_content_img .shop_content p{
+    text-align: center;
+    margin-top: 10px;
+}

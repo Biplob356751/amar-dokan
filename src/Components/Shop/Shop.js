@@ -6,7 +6,9 @@ import ShopCatagoryData from '../ShopCatagory/ShopCatagoryData/ShopCatagoryData.
 const Shop = (props) => {
     const { id } = useParams();
     const [shopItem, setShopItem] = useState([]);
+
     useEffect(() => {
+
         for (let i = 0; i < ShopCatagoryData.length; i++) {
             if (ShopCatagoryData[i].id == id) {
                 setShopItem(ShopCatagoryData[i].catagory);
@@ -14,14 +16,17 @@ const Shop = (props) => {
         }
 
     }, [id]);
+
+
     return (
         <div className="shop_container container">
             {
-                shopItem.map(shop =>
+               shopItem.map(shop =>
                     <div className="shop_content_img" key={shop.key}>
                         <Link to={`/product/${shop.key}`}>
                             <img src={shop.img} alt="" />
                             <div className="shop_content">
+                                <h1>{shop.key}</h1>
                                 <h4>{shop.name}</h4>
                                 <p>{shop.schedule}</p>
                             </div>

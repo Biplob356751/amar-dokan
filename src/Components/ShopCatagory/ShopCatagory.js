@@ -1,13 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import './ShopCatagory.css';
-import ShopCatagoryData from './ShopCatagoryData/ShopCatagoryData.json';
+import { shopFakeData } from './ShopCatagoryData/ShopFakeData';
 
 const ShopCatagory = () => {
     const [shopCatagory, setShopCatagory] = useState([]);
     useEffect(() =>{
-        setShopCatagory(ShopCatagoryData);
+        setShopCatagory(shopFakeData);
     },[])
+
     return (
         <div className="shop_catagory_container">
             <h3>Shop Catagory</h3>
@@ -19,7 +20,6 @@ const ShopCatagory = () => {
                         <Link to={`/shop/${catagoryShop.id}`}>
                             <img src={catagoryShop.image} alt="image" />
                             <h4>{catagoryShop.title}</h4>
-                            <h5>Open: {catagoryShop.schedule}</h5>
                         </Link>
                     </div>
                     )

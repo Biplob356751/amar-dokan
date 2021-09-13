@@ -1,20 +1,18 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import './Shop.css'
-import ShopCatagoryData from '../ShopCatagory/ShopCatagoryData/ShopCatagoryData.json';
+import { shopFakeData } from '../ShopCatagory/ShopCatagoryData/ShopFakeData';
 
-const Shop = (props) => {
+const Shop = () => {
     const { id } = useParams();
     const [shopItem, setShopItem] = useState([]);
-
     useEffect(() => {
 
-        for (let i = 0; i < ShopCatagoryData.length; i++) {
-            if (ShopCatagoryData[i].id == id) {
-                setShopItem(ShopCatagoryData[i].catagory);
+        for (let i = 0; i < shopFakeData.length; i++) {
+            if (shopFakeData[i].id == id) {
+                setShopItem(shopFakeData[i].catagory);
             }
         }
-
     }, [id]);
 
 
@@ -23,7 +21,7 @@ const Shop = (props) => {
             {
                shopItem.map(shop =>
                     <div className="shop_content_img" key={shop.key}>
-                        <Link to={`/product/${shop.key}`}>
+                        <Link to={`/product/${id}/${shop.key}`}>
                             <img src={shop.img} alt="" />
                             <div className="shop_content">
                                 <h1>{shop.key}</h1>

@@ -1,65 +1,40 @@
 import React, { useEffect, useState } from 'react';
 import './Product.css';
-import ShopCatagoryData from '../ShopCatagory/ShopCatagoryData/ShopCatagoryData.json'
 import { useParams } from 'react-router-dom';
+import { shopFakeData } from './../ShopCatagory/ShopCatagoryData/ShopFakeData';
 
 const Product = () => {
-    const { key } = useParams();
-
-    
-    // console.log(key);
-    const [products, setProducts] = useState({});
-    const [result, setResult] = useState([]);
-
-
-    
-    
+    const { key, id } = useParams();
+    const [product, setProduct] = useState([]);
 
     useEffect(() => {
 
-        // for (let i = 0; i < ShopCatagoryData.length; i++) {
-        //     if(ShopCatagoryData[i].catagory[i].key == key){
-        //         setProducts(ShopCatagoryData[i].catagory[i].product);
-        //     }
-        //     // console.log(ShopCatagoryData[i].catagory[i].product);
-        //     console.log(products.id)
-        // }
+        for (let i = 0; i < shopFakeData.length; i++) {
 
-        setResult(ShopCatagoryData);
-    }, []);
+            if(shopFakeData[i].id === parseInt(id)){
+                for(let j = 0; j < shopFakeData[i].catagory.length; j++) {
+                    if(shopFakeData[i].catagory[j].key === key){
+                        setProduct(shopFakeData[i].catagory[j].product)
+                    }
+                }
 
-
-   const pd = result.map(res => {
-        const data = res.catagory.find(cat => cat.key == key);
-        // console.log(data);
-       setProducts(data);
-        return data;
-        
-
-    })
-     console.log(products)
-    
-    // 
-// console.log(product[0])
-
-
-
+            }
+        }
+    }, [key, id]);
     return (
         <div className="product_page container">
-            
-            {/* {
-             pd?.product.map(productItem =>
-                    <div className="product_content" key={productItem ?.id}>
-                        
-                        <h1>{productItem ?.description}</h1>
-                        <img src={productItem ?.image} alt="" />
-                        <h1>{productItem ?.productName}</h1>
-                        <p>{productItem ?.discount}</p>
+            {
+                product.map(productItem =>
+                    <div className="product_content" key={productItem.storId}>
+
+                        <h1>{productItem.description}</h1>
+                        <img src={productItem.image} alt="" />
+                        <h1>{productItem.productName}</h1>
+                        <p>{productItem.discount}</p>
+
                     </div>
                 )
-            } */}
-
-            
+            }
         </div>
     );
 };

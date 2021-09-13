@@ -1,4 +1,4 @@
-[
+export const shopFakeData = [
     {
         "title": "Super Shop",
         "image": "https://i.pinimg.com/564x/fb/44/ef/fb44ef0f9d6a1aaa2ca7be01b0c73aa6.jpg",
@@ -121,7 +121,7 @@
                 "key": "a2",
                 "product": [
                     {
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "productName": "Laptop",
                         "price": 200,
                         "quantity": 1,
@@ -132,7 +132,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,
@@ -142,7 +142,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,
@@ -152,7 +152,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,
@@ -162,7 +162,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,
@@ -172,7 +172,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,
@@ -182,7 +182,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,
@@ -192,7 +192,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,
@@ -2665,7 +2665,7 @@
                 "key": "e5",
                 "product": [
                     {
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "productName": "Laptop",
                         "price": 200,
                         "quantity": 1,
@@ -2676,7 +2676,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,
@@ -2686,7 +2686,7 @@
                     },
                     {
                         "productName": "Laptop",
-                        "image": "https://www.searchpng.com/wp-content/uploads/2018/12/Orange-Fruit-PNG-Images-715x545.png",
+                        "image": "https://genesis-zone.com/media/cache/genesis_menu_product/Z30312_137942.png",
                         "price": 200,
                         "quantity": 1,
                         "rating": 4.5,

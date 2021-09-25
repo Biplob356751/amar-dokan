@@ -9,15 +9,20 @@ import Counter from '../Counter/Counter';
 import SimpleBlog from '../SimpleBlog/SimpleBlog';
 import ContactInfo from '../ContactInfo/ContactInfo';
 import Sponsor from '../Sponsor/Sponsor';
+import Nav from './../NavBar/Nav';
+import Footer from '../Footer/Footer';
 
 const Home = () => {
     return (
         <div>
+            <div>
+                <Nav></Nav>
+            </div>
             <div className="home_page container">
-               <Banner></Banner>
+                <Banner></Banner>
             </div>
             <div className="shop_catagory container">
-               <ShopCatagory></ShopCatagory> 
+                <ShopCatagory></ShopCatagory>
             </div>
             <div className="market_page container">
                 <Market></Market>
@@ -39,6 +44,9 @@ const Home = () => {
             </div>
             <div className="sponsor_page container">
                 <Sponsor></Sponsor>
+            </div>
+            <div>
+                <Footer></Footer>
             </div>
         </div>
     );

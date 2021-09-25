@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './Product.css';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import { shopFakeData } from './../ShopCatagory/ShopCatagoryData/ShopFakeData';
 
 const Product = () => {
@@ -31,7 +31,7 @@ const Product = () => {
                         <img src={productItem.image} alt="" />
                         <h1>{productItem.productName}</h1>
                         <p>{productItem.discount}</p>
-
+                        <Link to={`/details/${id}/${key}/${productItem.storId}`}>Details</Link>
                     </div>
                 )
             }

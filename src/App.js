@@ -1,15 +1,13 @@
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import Footer from './Components/Footer/Footer';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './Components/Home/Home';
-import Nav from './Components/NavBar/Nav'
 import Product from './Components/Products/Product';
+import ProductDetails from './Components/Products/ProductDetails/ProductDetails';
 import Shop from './Components/Shop/Shop';
 
 function App() {
   return (
     <div className="App">
       <Router>
-        <Nav></Nav>
         <Switch>
           <Route path='/' exact>
             <Home></Home>
@@ -20,8 +18,10 @@ function App() {
           <Route path='/product/:id/:key'>
             <Product></Product>
           </Route>
+          <Route path='/details/:id/:key/:storId'>
+            <ProductDetails></ProductDetails>
+          </Route>
         </Switch>
-        <Footer></Footer>
       </Router>
     </div>
   );

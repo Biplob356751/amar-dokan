@@ -8,6 +8,10 @@
 body{
   font-family: 'Roboto Slab', serif;
 }
+.container_fluid{
+  width: 95%;
+  margin: auto;
+}
 .container{
   width: 90%;
   margin: auto;

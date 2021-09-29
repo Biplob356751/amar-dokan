@@ -6,6 +6,7 @@
     top: 0;
     left: 0;
     width: 100%;
+    z-index: 99999999;
 }
 .menu_bar .menu_item_content{
     display: grid;

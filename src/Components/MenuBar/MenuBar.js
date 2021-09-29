@@ -1,16 +1,19 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import { CartContext } from '../../App';
 import './MenuBar.css';
 
 
 const MenuBar = () => {
+
+    const [addCart, setAddCart] = useContext(CartContext);
 
     return (
         <div className="menu_bar">
             <div className="container_fluid">
                 <div className="menu_item_content">
                     <div className="menu_logo">
-                        <Link><i class="fab fa-opencart"></i>CITY<span>S</span>HOP</Link>
+                        <Link to="/"><i class="fab fa-opencart"></i>CITY<span>S</span>HOP</Link>
                     </div>
                     <div className="menu_search_bar">
                         <input type="text" placeholder="Search More Product..." />
@@ -20,7 +23,7 @@ const MenuBar = () => {
                         <Link to="/addToCart">
                             <div className="cart_product_item_icon1">
                                 <i class="fas fa-shopping-bag"></i>
-                                <span className="cart_icon">4</span>
+                                <span className="cart_icon">{addCart.length}</span>
                             </div>
                         </Link>
                         <Link to="/addFavourate">

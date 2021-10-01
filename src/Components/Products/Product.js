@@ -47,7 +47,7 @@ const Product = () => {
                                 <img src={productItem.image} alt="" />
                                 <h4>{productItem.productName}</h4>
                                 <del>{productItem.price}$</del>
-                                <span>{productItem.price - productItem.discount / 100 * productItem.price} $</span>
+                                <span>{Math.round(productItem.price - productItem.discount / 100 * productItem.price)} $</span>
                                 <p>{productItem.discount} %</p>
                                 <div className="product_review_icon">
                                     <i className="fa fa-star"></i>

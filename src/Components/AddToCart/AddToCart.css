@@ -1,0 +1,34 @@
+.add_to_cart_page{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+.addToCart{
+    padding: 10px 20px;
+    height: 500px;
+    overflow-y: scroll;
+}
+.single_cart_image{
+    display: grid;
+    grid-template-columns: 20% 25% 25% 10% 20%;
+    padding: 20px 10px;
+    border: 1px solid #06b8ff;
+    margin-bottom: 10px;
+    text-align: center;
+    align-items: center;
+
+}
+.single_cart_image img{
+    width: 60%;
+}
+.quantity_value button{
+    width: 35px;
+    border: 1px solid #06b8ff;
+    padding: 6px 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#trash{
+    color: red;
+    cursor: pointer;
+}

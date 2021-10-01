@@ -13,11 +13,11 @@ export const shopFakeData = [
                 {
                     "image": "http://pngimg.com/uploads/tshirt/tshirt_PNG5436.png",
                     "productName": "T-Shirt",
-                    "price": 656,
+                    "price": 105,
                     "quantity": 1,
                     "rating": 4.9,
                     "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
-                    "discount": 8,
+                    "discount": 5,
                     "storId": "B1H1C1"
                 },
                 {
@@ -41,9 +41,9 @@ export const shopFakeData = [
                     "storId": "B3H3C3"
                 },
                 {
-                    "productName": "Saroyani",
-                    "image": "https://mahavirsafawala.com/wp-content/uploads/2018/10/1-1.png",
-                    "price": 2000,
+                    "productName": "Hair Gel",
+                    "image": "https://m.marico.com/images/brands/Sub-landing-PRODUCTS_2.png",
+                    "price": 200,
                     "quantity": 1,
                     "rating": 4.9,
                     "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
@@ -51,9 +51,9 @@ export const shopFakeData = [
                     "storId": "B4H4C4"
                 },
                 {
-                    "productName": "Pangabi Cutton ",
-                    "image": "https://lh3.googleusercontent.com/proxy/AzJ12LrQlv_OPvUNMmKQe9Y4dopkkvRix_g4Pwi9sBsOr5srGB2DntdShncFZcJ2IqPVqdSjHQ4V1ZZcy0mjCuipA2nIKeaBp31iY8M",
-                    "price": 400,
+                    "productName": "Tractor ",
+                    "image": "https://www.forcemotors.com/themes/frontend/images/agri/Orchid-2.png",
+                    "price": 40000,
                     "quantity": 1,
                     "rating": 4.8,
                     "description": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown.",
